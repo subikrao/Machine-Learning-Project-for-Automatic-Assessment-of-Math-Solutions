@@ -8,4 +8,3 @@ To improve model performance, methods like Principal Component Analysis (PCA), L
 The results show that MathBERT embeddings outperform RoBERTa embeddings. Ensemble models, especially those that include SVM and MLP classifiers, achieve the best performance, with the stacking approach yielding an accuracy of approximately 65%. This model accurately classifies solutions into the correct categories, demonstrating the potential for practical applications in mathematics education.
 
 P.S.: The slides deck of the project presentation is uploaded in the repo.
-A video of the presentation and explanation can be found at this link: https://youtu.be/azyu4lRpiM0
